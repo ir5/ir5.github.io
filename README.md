@@ -1,3 +1,5 @@
+## SNS
+
 * [github.com/ir5](https://github.com/ir5)
 * [twitter.com/ir5](https://twitter.com/ir5)
 * [ir5.hatenablog.com](https://ir5.hatenablog.com/)
@@ -20,7 +22,7 @@
 
 ### Contestant
 
-[Hall of fame](https://cphof.org/profile/topcoder:ir5)
+[CP Hall of fame](https://cphof.org/profile/topcoder:ir5)
 
 * Google Code Jam 2011, 14th
 * ACM-ICPC 2012 World Finals, 27th
