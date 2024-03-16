@@ -1,7 +1,3 @@
-# Mitsuru Kusumoto
-
-## SNS
-
 * [github.com/ir5](https://github.com/ir5)
 * [twitter.com/ir5](https://twitter.com/ir5)
 * [ir5.hatenablog.com](https://ir5.hatenablog.com/)
