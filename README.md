@@ -1,4 +1,4 @@
-## SNS
+Links:
 
 * [github.com/ir5](https://github.com/ir5)
 * [twitter.com/ir5](https://twitter.com/ir5)
